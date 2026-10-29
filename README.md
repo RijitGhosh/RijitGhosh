@@ -206,17 +206,23 @@ Explore: All repositories
   <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Learning"/>
 </div>
 
-💼 Experience
-Business Analyst Intern — Wefetch Technologies
-March 2026 – May 2026
+## 💼 Experience
+
+### Business Analyst Intern — Wefetch Technologies
+*March 2026 – May 2026*
 - Conducted lead generation and prospect research.
 - Supported cold-email outreach, client communication, and market research.
 - Maintained business data, reporting, and lead tracking in Microsoft Excel.
 - Collaborated with sales teams to support customer engagement.
-🎓 Education
-SRM Institute of Science and Technology, Kattankulathur
-B.Tech — Computer Science and Engineering
-📬 Connect With Me
+
+## 🎓 Education
+
+**SRM Institute of Science and Technology, Kattankulathur**  
+B.Tech — Computer Science and Engineering  
+Graduation: **2027**
+
+## 📬 Connect With Me
+
 <div align="center">
 
 <a href="mailto:rijitghosh53@gmail.com"><img src="https://img.shields.io/badge/Email-rijitghosh53%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rijit"/></a>
