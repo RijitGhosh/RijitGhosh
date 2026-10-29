@@ -10,7 +10,7 @@ Replace any TODO links and remove any section that doesn't reflect your real exp
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,45:164E63,100:F97316&height=220&section=header&text=Rijit%20Ghosh&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20%7C%20Cloud%20%7C%20AI%20%7C%20Business%20Analytics&descAlignY=58&descSize=18" width="100%" alt="Rijit Ghosh profile banner"/>
 
 <a href="https://github.com/RijitGhosh">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=2800&pause=800&color=FBBF24&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;Data+%26+Business+Analytics;Cloud+%26+DevOps+Developer;Python+%26+SQL+Developer;Building+useful%2C+data-driven+projects" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=2800&pause=800&color=FBBF24&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;Data+%26+Business+Analytics;Cloud+%26+DevOps+Developer;Python+%26+SQL+Developer;Building+Useful%2C+Data-Driven+Projects" alt="Animated introduction"/>
 </a>
 
 <p>
@@ -155,16 +155,6 @@ A project repository for hands-on practice with DevOps concepts and tooling.
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [My Portfolio](https://github.com/RijitGhosh/my-portfolio)
-A personal portfolio repository to present projects, skills, and professional information.
-
-**Focus:** HTML · CSS · Web Development
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔐 QMed — Quantum-Secure Medical Data Sharing
 A Python prototype exploring BB84-inspired quantum key distribution simulation, file encryption/decryption, and eavesdropper detection without quantum hardware.
 
@@ -250,7 +240,7 @@ B.Tech — Computer Science and Engineering
 <a href="https://linkedin.com/in/rijit-ghosh-528b96348"><img src="https://img.shields.io/badge/LinkedIn-Rijit%20Ghosh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/></a>
 <a href="https://github.com/RijitGhosh"><img src="https://img.shields.io/badge/GitHub-RijitGhosh-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
 
-**Interested in business, data, cloud, AI-driven applications, and collaborative projects.**
+**Interested in Business, Data, Cloud, AI-Driven Applications, and Collaborative Projects.**
 
 </div>
 
