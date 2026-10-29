@@ -190,13 +190,30 @@ A project concept/application for campaign planning, customer engagement, and pe
 ## 📊 GitHub at a Glance
 
 <div align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RijitGhosh&theme=github_dark" alt="GitHub profile summary"/>
+
+<!-- Automatically generated GitHub profile overview -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RijitGhosh&theme=github_dark" width="100%" alt="GitHub contribution and activity overview"/>
+
+<br/>
+
+<!-- Languages detected from your repositories -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RijitGhosh&theme=github_dark" width="49%" alt="Languages used across repositories"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RijitGhosh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="49%" alt="Most used programming languages"/>
+
+<br/>
+
+<!-- Automatically generated contribution streak -->
+<img src="https://streak-stats.demolab.com?user=RijitGhosh&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub contribution streak"/>
+
+<br/>
+
+<!-- Automatically generated contribution activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RijitGhosh&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
+
 </div>
 
-<div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RijitGhosh&theme=github_dark" alt="Repository language statistics"/>
-  <img width="48%" src="https://streak-stats.demolab.com?user=RijitGhosh&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-</div>
+> These statistics are generated from GitHub data by external services. Updates may be delayed by caching, and language statistics depend on repository-language detection.
 
 ## 🏅 Certifications
 
