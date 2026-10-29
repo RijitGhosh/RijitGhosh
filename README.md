@@ -191,29 +191,15 @@ A project concept/application for campaign planning, customer engagement, and pe
 
 <div align="center">
 
-<!-- Automatically generated GitHub profile overview -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RijitGhosh&theme=github_dark" width="100%" alt="GitHub contribution and activity overview"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=RijitGhosh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats"/>
 
-<br/>
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RijitGhosh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Programming Languages"/>
 
-<!-- Languages detected from your repositories -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RijitGhosh&theme=github_dark" width="49%" alt="Languages used across repositories"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=RijitGhosh&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=14B8A6" alt="GitHub Contribution Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RijitGhosh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="49%" alt="Most used programming languages"/>
-
-<br/>
-
-<!-- Automatically generated contribution streak -->
-<img src="https://streak-stats.demolab.com?user=RijitGhosh&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub contribution streak"/>
-
-<br/>
-
-<!-- Automatically generated contribution activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RijitGhosh&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RijitGhosh&theme=github-compact&hide_border=true&area=true&color=14B8A6&line=F97316&point=FBBF24" alt="GitHub Activity Graph"/>
 
 </div>
-
-> These statistics are generated from GitHub data by external services. Updates may be delayed by caching, and language statistics depend on repository-language detection.
 
 ## 🏅 Certifications
 
