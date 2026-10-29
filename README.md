@@ -7,7 +7,7 @@ Replace any TODO links and remove any section that doesn't reflect your real exp
 <div align="center">
 
 <!-- Dynamic banner. If an external image fails, the rest of the README still works. -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,45:164E63,100:F97316&height=220&section=header&text=Rijit%20Ghosh&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20%7C%20Cloud%20%7C%20AI%20%7C%20Business%20Analyst&descAlignY=58&descSize=18" width="100%" alt="Rijit Ghosh profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,45:164E63,100:F97316&height=220&section=header&text=RIJIT%20GHOSH&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20%7C%20Cloud%20%7C%20AI%20%7C%20Business%20Analyst&descAlignY=58&descSize=18" width="100%" alt="Rijit Ghosh profile banner"/>
 
 <a href="https://github.com/RijitGhosh">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=2800&pause=800&color=FBBF24&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;Data+%26+Business+Analytics;Cloud+%26+DevOps+Developer;Python+%26+SQL+Developer;Building+Useful%2C+Data-Driven+Projects" alt="Animated introduction"/>
