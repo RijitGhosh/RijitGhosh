@@ -191,15 +191,15 @@ A project concept/application for campaign planning, customer engagement, and pe
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RijitGhosh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=RijitGhosh&show_icons=true&theme=github_dark&hide_border=true&show=contributions" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RijitGhosh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Programming Languages"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RijitGhosh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Programming Languages"/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=RijitGhosh&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=14B8A6" alt="GitHub Contribution Streak"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RijitGhosh&theme=github-compact&hide_border=true&area=true&color=14B8A6&line=F97316&point=FBBF24" alt="GitHub Activity Graph"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=RijitGhosh&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=14B8A6" alt="GitHub Streak"/>
 
 </div>
+
+> **Note:** Contribution totals and streaks can differ between third-party services and GitHub's own contribution calendar.
 
 ## 🏅 Certifications
 
