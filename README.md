@@ -1,11 +1,13 @@
 <!--
 RijitGhosh/RijitGhosh
-This is the profile README for https://github.com/RijitGhosh
+Create a public repository named exactly "RijitGhosh" and put this file in README.md.
+Replace any TODO links and remove any section that doesn't reflect your real experience.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102238,50:164E63,100:F97316&height=220&section=header&text=Rijit%20Ghosh&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20%7C%20Cloud%20%7C%20AI%20%7C%20Business%20Analytics&descAlignY=58&descSize=18" width="100%" alt="Rijit Ghosh profile banner"/>
+<!-- Dynamic banner. If an external image fails, the rest of the README still works. -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,45:164E63,100:F97316&height=220&section=header&text=Rijit%20Ghosh&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20%7C%20Cloud%20%7C%20AI%20%7C%20Business%20Analytics&descAlignY=58&descSize=18" width="100%" alt="Rijit Ghosh profile banner"/>
 
 <a href="https://github.com/RijitGhosh">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=2800&pause=800&color=FBBF24&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;Data+%26+Business+Analytics;Cloud+%26+DevOps+Developer;Python+%26+SQL+Developer;Building+Useful%2C+Data-Driven+Projects" alt="Animated introduction"/>
@@ -27,9 +29,9 @@ I'm Rijit Ghosh, a Computer Science and Engineering undergraduate at SRM Institu
 I enjoy working at the intersection of data analysis, business analysis, cloud technologies, and AI-powered applications. I like turning a problem into a practical solution—from understanding requirements and working with data to building, documenting, and improving an application.
 - 🎓 Education: B.Tech, Computer Science and Engineering — SRMIST
 - 📊 Interests: Data Analytics, Business Analysis, AI/ML, Business Intelligence
-- ☁️ Cloud & DevOps Development: AWS, Azure, Docker, Kubernetes, Jenkins, Terraform
-- 🐍 Python Development: Python scripting, application development, data processing
-- 🗄️ Database Development: SQL, MySQL, relational data, database-backed applications
+- ☁️ Cloud & DevOps Developer: AWS fundamentals, Azure fundamentals, Docker, Kubernetes, Jenkins, Terraform
+- 🐍 Python Developer: Python scripting, application development, and data processing
+- 🗄️ Database Developer: SQL, MySQL, and database-backed applications
 - 🧰 Tools: Python, SQL, Excel, Power BI, Git, GitHub
 - 💼 Experience: Business Analyst Intern at Wefetch Technologies
 - 🌱 Currently building: Practical projects across analytics, web applications, and secure systems
@@ -51,10 +53,10 @@ I aim to build useful projects, communicate clearly, and make decisions backed b
 <td width="50%" valign="top">
 
 ☁️ Cloud & DevOps Developer
-- Cloud environments with AWS and Azure
-- Docker and containerized workflows
+- AWS and Azure fundamentals
+- Docker and container basics
 - Kubernetes, Jenkins, and Terraform
-- Git/GitHub workflows and CI/CD
+- Git/GitHub workflows
 - Deployment and project documentation
 </td>
 </tr>
@@ -70,16 +72,18 @@ I aim to build useful projects, communicate clearly, and make decisions backed b
 <td width="50%" valign="top">
 
 🐍 Python & Database Developer
-- Python scripting and application logic
-- MySQL and relational databases
-- SQL queries and data management
+- Python, C, C++, MySQL, VB.NET
+- HTML, CSS, JavaScript
 - Database-backed applications
 - Authentication and role-based access
+- Project planning and teamwork
 </td>
 </tr>
 </table>
 
 🚀 Featured Projects
+<!-- Keep these descriptions aligned with what the linked repositories actually implement. -->
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -112,15 +116,6 @@ A full-stack email scheduling and delivery dashboard with CSV-based bulk schedul
 
 Focus: TypeScript · Next.js · Node.js · PostgreSQL · Redis · BullMQ · Elasticsearch
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🌐 My Portfolio
-A personal portfolio repository to present projects, skills, and professional information.
-
-Focus: HTML · CSS · Web Development
-</td>
 <td width="50%" valign="top">
 
 🧪 DevOps Web App
@@ -128,15 +123,15 @@ A web application repository for exploring development and DevOps workflows.
 
 Focus: Web Development · DevOps
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 🧰 DevOps Virtual Lab
 A project repository for hands-on practice with DevOps concepts and tooling.
 
-Focus: DevOps · Cloud
+Focus: DevOps · Cloud Learning
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 🔐 QMed — Quantum-Secure Medical Data Sharing
@@ -144,21 +139,12 @@ A Python prototype exploring BB84-inspired quantum key distribution simulation, 
 
 Focus: Python · Cryptography · Tkinter
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 📣 AI-Powered Campaign Management Platform
-A project for campaign planning, customer engagement, and performance analytics, combining business workflows with dashboards.
+A project concept/application for campaign planning, customer engagement, and performance analytics, combining business workflows with dashboards.
 
 Focus: AI Applications · Analytics · Project Management
-</td>
-<td width="50%" valign="top">
-
-🧩 More Projects
-Explore my repositories for more software, analytics, and development projects.
-
-Explore: All repositories
 </td>
 </tr>
 </table>
@@ -169,7 +155,7 @@ Explore: All repositories
 
 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,mysql,postgres,sqlite,git,github,docker,aws,azure,jenkins,terraform,vscode&perline=9" alt="Technology icons"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,mysql,git,github,docker,aws,azure,jenkins,terraform,vscode&perline=8" alt="Technology icons"/>
 </p>
 
 <p align="center">
@@ -181,15 +167,15 @@ Explore: All repositories
 
 📊 GitHub at a Glance
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RijitGhosh&theme=github_dark" width="96%" alt="GitHub profile summary"/>
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RijitGhosh&theme=github_dark" width="48%" alt="Repository language statistics"/>
-
-<img src="https://streak-stats.demolab.com?user=RijitGhosh&theme=github-dark-blue&hide_border=true" width="96%" alt="GitHub contribution streak"/>
-
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RijitGhosh&theme=github_dark" alt="GitHub profile summary"/>
 </div>
+
+<div align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RijitGhosh&theme=github_dark" alt="Repository language statistics"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=RijitGhosh&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+</div>
+
+Note: These cards are generated by third-party services. They can occasionally be unavailable, and language statistics reflect GitHub's repository-language detection—not a complete measure of skill.
 
 🏅 Certifications
 <div align="center">
@@ -206,23 +192,17 @@ Explore: All repositories
   <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Learning"/>
 </div>
 
-## 💼 Experience
-
-### Business Analyst Intern — Wefetch Technologies
-*March 2026 – May 2026*
+💼 Experience
+Business Analyst Intern — Wefetch Technologies
+March 2026 – May 2026
 - Conducted lead generation and prospect research.
 - Supported cold-email outreach, client communication, and market research.
 - Maintained business data, reporting, and lead tracking in Microsoft Excel.
 - Collaborated with sales teams to support customer engagement.
-
-## 🎓 Education
-
-**SRM Institute of Science and Technology, Kattankulathur**  
-B.Tech — Computer Science and Engineering  
-Graduation: **2027**
-
-## 📬 Connect With Me
-
+🎓 Education
+SRM Institute of Science and Technology, Kattankulathur
+B.Tech — Computer Science and Engineering
+📬 Connect With Me
 <div align="center">
 
 <a href="mailto:rijitghosh53@gmail.com"><img src="https://img.shields.io/badge/Email-rijitghosh53%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rijit"/></a>
@@ -233,5 +213,5 @@ Interested in Business, Data, Cloud, AI-Driven Applications, and Collaborative P
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:164E63,100:102238&height=100&section=footer" width="100%" alt="Decorative footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:164E63,100:101820&height=100&section=footer" width="100%" alt="Decorative footer"/>
 </div>
