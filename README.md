@@ -190,16 +190,13 @@ A project concept/application for campaign planning, customer engagement, and pe
 ## 📊 GitHub at a Glance
 
 <div align="center">
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=RijitGhosh&show_icons=true&theme=github_dark&hide_border=true&show=contributions" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RijitGhosh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Programming Languages"/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=RijitGhosh&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=14B8A6" alt="GitHub Streak"/>
-
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RijitGhosh&theme=github_dark" alt="GitHub profile summary"/>
 </div>
 
-> **Note:** Contribution totals and streaks can differ between third-party services and GitHub's own contribution calendar.
+<div align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RijitGhosh&theme=github_dark" alt="Repository language statistics"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=RijitGhosh&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+</div>
 
 ## 🏅 Certifications
 
