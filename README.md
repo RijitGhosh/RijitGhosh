@@ -227,6 +227,7 @@ A project concept/application for campaign planning, customer engagement, and pe
 
 **SRM Institute of Science and Technology, Kattankulathur**  
 B.Tech — Computer Science and Engineering
+Graduation: **2027**
 
 ## 📬 Connect With Me
 
